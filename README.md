@@ -1,8 +1,6 @@
 # Enercare-BI-ChatBot
 A Natural Language to SQL BI chatbot that enables users to ask business questions over Excel/CSV data. Uses Azure OpenAI for SQL generation, SQLite for query execution, and FastAPI for API/UI.
 
-# ENERCARE BI Chatbot (NL-to-SQL)
-
 An end-to-end **Natural Language to SQL (NL-to-SQL) BI chatbot** that enables users to query Excel/CSV data using conversational inputs.
 
 This project transforms structured data into a **conversational analytics experience**, allowing users to ask business questions and receive accurate, data-driven insights.
