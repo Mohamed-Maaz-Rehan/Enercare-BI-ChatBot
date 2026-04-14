@@ -1,0 +1,1 @@
+Welcome to ENERCARE Data Assistant. Ask questions about customers, invoices, subscriptions, products, and service calls.
